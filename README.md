@@ -1,4 +1,6 @@
 # speech-censoring
+Sometimes you may find a wonderful educational resource that is woefully expletive-ridden.  This program automatically bleeps chosen words from audio, making an educational resource more presentable to students in certain age ranges.
+
 Uses Google Cloud API to bleep out a chosen list of words from an audio sample.
 
 Big shoutout to [Soham Sil](https://github.com/sohamsil).  This code borrows heavily from their method.
